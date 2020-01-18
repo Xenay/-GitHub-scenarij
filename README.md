@@ -1,2 +1,2 @@
 # -GitHub-scenarij
-kratak opis u označeno mjesto
+Studiram na Fakultetu informatike u Puli
